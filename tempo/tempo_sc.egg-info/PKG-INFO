@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: tempo-sc
+Version: 0.1.0
+Summary: TEMPO-SC: Time-Point Selection for Single-Cell and Bulk Temporal Transcriptomics
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/tempo-sc
+Project-URL: Source, https://github.com/yourusername/tempo-sc
+Project-URL: Issues, https://github.com/yourusername/tempo-sc/issues
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.20
+Requires-Dist: torch>=1.9
+Requires-Dist: anndata>=0.8
+Requires-Dist: scanpy>=1.9
