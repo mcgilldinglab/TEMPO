@@ -99,3 +99,12 @@ Installable with `pip` directly from PyPI.
 ### **Install the latest version**
 ```bash
 pip install tempo-sc
+
+## Licensing
+
+TEMPO is offered under two licensing options:
+
+- **Noncommercial:** [PolyForm Noncommercial License 1.0.0](LICENSE-NONCOMMERCIAL.txt), under its complete, unmodified terms.
+- **Commercial:** uses outside those permissions require a separate written agreement with the copyright holders or their authorized representatives. Contact [jun.ding@mcgill.ca](mailto:jun.ding@mcgill.ca).
+
+See [LICENSE](LICENSE) and [commercial licensing](COMMERCIAL-LICENSING.md) for scope and details. Earlier licenses and third-party notices remain applicable to the material they cover. This is a source-available licensing model with a noncommercial restriction; it is not an OSI open-source license.
