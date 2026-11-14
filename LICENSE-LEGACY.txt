@@ -1,0 +1,14 @@
+HISTORICAL LICENSE AND ATTRIBUTION NOTICES — TEMPO
+
+Baseline before the licensing update:
+https://github.com/mcgilldinglab/TEMPO/commit/4d9989cd98fc54e7329f0ae8bc662f42eefe4992
+
+The following prior notices are retained verbatim. Earlier grants and notices
+continue to apply to the material they cover; the new licensing notice does
+not revoke those rights or relicense third-party material.
+
+No root license file was present in the captured baseline.
+
+--- Prior license metadata in pyproject.toml ---
+license = { text = "MIT" }
+
